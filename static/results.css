@@ -1,0 +1,11 @@
+p {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+
+body {
+    background-color: ghostwhite;
+    padding: 20px;
+    font-size: 20px;
+}
